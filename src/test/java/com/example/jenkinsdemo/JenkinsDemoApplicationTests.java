@@ -25,5 +25,5 @@ class JenkinsDemoApplicationTests {
     {
         assertTrue(2 > 1);
     }
-    
+
 }
