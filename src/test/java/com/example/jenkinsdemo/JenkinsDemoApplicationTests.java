@@ -29,7 +29,7 @@ class JenkinsDemoApplicationTests {
     @Test
     void mathFalseTest()
     {
-        assertFalse(2 < 1);
+        assertFalse(2 > 1);
     }
 
 }
