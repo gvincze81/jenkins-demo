@@ -28,7 +28,7 @@ class JenkinsDemoApplicationTests {
     @Test
     void mathFalseTest()
     {
-        assertNotEquals(2, 2);
+        assertNotEquals(2, 1);
     }
 
 }
