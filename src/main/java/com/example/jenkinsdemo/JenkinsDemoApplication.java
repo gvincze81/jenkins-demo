@@ -14,6 +14,7 @@ public class JenkinsDemoApplication {
     private static void app()
     {
         System.out.println("Bite me stupid!!!!");
+        System.out.println("Second line");
     }
 
 }
