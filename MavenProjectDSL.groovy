@@ -7,7 +7,7 @@ job('First-Maven-Project-Via-DSL') {
         githubPush()
     }
     steps {
-        maven('LocalMaven', 'clean package', 'pom.xml')
+        maven('clean package', 'pom.xml')
     }
     publishers {
         //archive the war file generated
